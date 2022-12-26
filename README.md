@@ -1,5 +1,7 @@
 # Readme Pattern
-![Fork from](https://github.com/thomascsd/vscode-readme-pattern.git) 
+
+Fork from [vscode-readme-pattern of Thomascsd](https://github.com/thomascsd/vscode-readme-pattern.git) 
+
 > A VSCode extension that generates README.md files
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/thomascsd.vscode-readme-pattern)
