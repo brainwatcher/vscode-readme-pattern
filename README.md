@@ -14,7 +14,7 @@ Fork from [vscode-readme-pattern of Thomascsd](https://github.com/thomascsd/vsco
 
 ## Features
 
-- Includes 4 readme templates: Bot, Hackathon, Minimal, Standard, THzData, based on [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+- Includes 4 readme templates: = Minimal, Standard, THzData, Work based on [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
 - Creates README.md with context menu
 - Supports package.json and composer.json
 - Creates project name by reading config

@@ -1,46 +1,44 @@
-# @Project Title@
+# Terahertz spectral data
 
-## Table of Contents
+## System 测量系统
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+MenloSystems 
+Advantest
 
-## About <a name = "about"></a>
+## Location 测量地点
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Tianjin 天津 
+ChengDu 成都
 
-## Getting Started <a name = "getting_started"></a>
+## Introduction 漆层种类
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Baseboard 底板 
+Single layer (单层) 
+Multi-layer (多层)
 
-### Prerequisites
+## Complex Refractive Index (CRI) 复折射率
 
-What things you need to install the software and how to install them.
+[File Link 文件链接](./CRI_iron.csv)
 
-```
-Give examples
-```
+[Link from refractiveindex.info 网址链接](https://refractiveindex.info/?shelf=3d&book=metals&page=iron#google_vignette)
 
-### Installing
+## Sample number 样本数目
 
-A step by step series of examples that tell you how to get a development env running.
+4
 
-Say what the step will be
+## Introduction 样本介绍
 
-```
-Give the example
-```
+[Introduction(简介)](./introduction.jpg)
 
-And repeat
+## Gauger 测量者
 
-```
-until finished
-```
+Junyi Huang 黄俊溢
+Lu Li 李璐
 
-End with an example of getting some data out of the system or using it for a little demo.
+## Date 测量日期
 
-## Usage <a name = "usage"></a>
+YYYY-MM-DD hh:mm:ss
 
-Add notes about how to use the system.
+## File creator 本文件建立者
+
+Wei Zhang 张为
